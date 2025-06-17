@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou o Samir
+# 👋 Seja bem-vindo! Prazer, Samir Firmino Martins de Sousa
 
 ## 🚀 Sobre mim
 
-💻 Desenvolvedor focado em sistemas organizados e eficientes  
+💻 Desenvolvedor front-end focado em sistemas organizados e eficientes  
 📊 Apaixonado por bancos de dados e modelagem de dados  
 🎯 Em busca de desafios que envolvam lógica e boas práticas
 
