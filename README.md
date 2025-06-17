@@ -3,16 +3,16 @@
 ## 🚀 Sobre mim
 Sou um desenvolvedor front-end apaixonado por tecnologia, aprendizado e desenvolvimento de sistemas.
 
-## 💻 Tecnologias que uso
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+## 🧰 Tecnologias & Ferramentas
 
-## 📊 GitHub Stats
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&theme=radical)](https://github.com/seu_usuario/github-readme-stats)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/seu_usuario)
-- Email: seuemail@exemplo.com
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/samir-firmino-573322265)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:samir.sfmss@gmail.com)
+
 
