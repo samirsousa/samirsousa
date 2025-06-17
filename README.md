@@ -1,7 +1,10 @@
 # 👋 Olá! Eu sou o Samir
 
 ## 🚀 Sobre mim
-Sou um desenvolvedor front-end apaixonado por tecnologia, aprendizado e desenvolvimento de sistemas.
+
+💻 Desenvolvedor focado em sistemas organizados e eficientes  
+📊 Apaixonado por bancos de dados e modelagem de dados  
+🎯 Em busca de desafios que envolvam lógica e boas práticas
 
 ## 🧰 Tecnologias & Ferramentas
 
