@@ -52,6 +52,3 @@
 ## 📫 Contato
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/samir-firmino-573322265)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=outlook&logoColor=white)](mailto:samirdev9@outlook.com)
-
-
