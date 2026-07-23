@@ -1,8 +1,7 @@
 # 👋 Seja bem-vindo! Prazer, Samir Firmino Martins de Sousa
 
 ## 🚀 Sobre mim
-
-💻 Estagiário de Análise de Dados  
+ 
 📊 Apaixonado por bancos de dados e modelagem de dados  
 🎯 Em busca de desafios que envolvam lógica e boas práticas
 
