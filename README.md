@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
  
-📊 Apaixonado por bancos de dados e modelagem de dados  
+📊 Apaixonado por bancos de dados e modelagem de dados e Desenvolvimento web Full Stack  
 🎯 Em busca de desafios que envolvam lógica e boas práticas
 
 ## 👨‍💻 Linguagens de Programação
