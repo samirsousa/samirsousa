@@ -99,12 +99,12 @@ Sistema web desenvolvido para apoiar a gestão administrativa da AEPEC.
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,oracle" />
 </div>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-</div>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="Power BI" />
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="40" alt="Apache Spark" />
+</p>
 
 ### Ferramentas & Ambiente
 
