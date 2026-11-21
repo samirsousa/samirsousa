@@ -19,11 +19,6 @@
 
 <p align="center">
   <a href="https://samirsousa.github.io/portfolio-ide/" target="_blank">
-    <img
-      src="assets/portfolio-preview.png"
-      alt="Prévia do portfólio interativo de Samir Sousa"
-      width="95%"
-    />
   </a>
 </p>
 
