@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack & Engenheiro de Dados</b> • Graduando em Sistemas de Informação na UniLaSalle-RJ 🎓
+  <b>Apaixonado por Análise & Engenharia de Dados</b> • Graduando em Sistemas de Informação na UniLaSalle-RJ 🎓
 </p>
 
 <p align="center">
