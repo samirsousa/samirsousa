@@ -1,14 +1,11 @@
-
   <img src="https://komarev.com/ghpvc/?username=samirsousa&style=flat-square&color=blueviolet" alt="Visitor Count" />
 </p>
 
 # 👋 Seja bem-vindo! Prazer, Samir Firmino Martins de Sousa
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=samirsousa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
 ## 🧐 Sobre mim
 
@@ -39,14 +36,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 🎨 Design
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-</p>
-
 ### ⚙️ Software e Ferramentas
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -54,20 +43,37 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </p>
 
+    </td>
+    <td width="35%" valign="top" align="center">
+
+  <!-- Card Lateral Estilizado (Semelhante ao do vídeo) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=samirsousa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Samir's Stats Card" />
+  
+  <br><br>
+
+  <!-- Contato Rápido -->
+  <h3>📞 Contato</h3>
+  <a href="https://linkedin.com/in/samirsousa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+    </td>
+  </tr>
+</table>
+
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas e Conquistas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samirsousa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Samir's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirsousa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=samirsousa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samirsousa&theme=tokyonight&no-frame=true&row=1&column=4" alt="GitHub Trophy" />
 </p>
 
 ---
@@ -89,15 +95,5 @@
   </a>
   <a href="https://github.com/samirsousa/projeto-ong">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=samirsousa&repo=projeto-ong&theme=tokyonight&hide_border=true" alt="Projeto ONG - AEPEC" />
-  </a>
-</p>
-
----
-
-## 📞 Contato
-
-<p>
-  <a href="https://linkedin.com/in/samirsousa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
