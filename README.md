@@ -141,7 +141,7 @@ Estou sempre aberto a conhecer pessoas, trocar experiências, colaborar em proje
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos%20conversar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samirsousa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos%20conversar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samir-firmino-573322265/)
 
 **Obrigado por visitar meu perfil!** 🚀
 
