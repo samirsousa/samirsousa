@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou Samir Sousa!
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0F172A,50:2563EB,100:06B6D4&text=SAMIR%20SOUSA&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=Software%20Development%20%7C%20Data%20%7C%20Automation&descAlignY=68&descSize=16&animation=fadeIn" width="100%" />
