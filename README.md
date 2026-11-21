@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0F172A,50:2563EB,100:06B6D4&text=SAMIR%20SOUSA&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=Software%20Development%20%7C%20Data%20%7C%20Automation&descAlignY=68&descSize=16&animation=fadeIn" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samirsousa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samir-firmino-573322265/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/samirsousa)
 ![Location](https://img.shields.io/badge/Niterói-RJ%2C%20Brasil-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white)
 
