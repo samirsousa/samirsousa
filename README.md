@@ -68,7 +68,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samirsousa&theme=tokyonight&no-frame=true&row=1&column=4" alt="GitHub Trophy" />
 </p>
 
 ---
