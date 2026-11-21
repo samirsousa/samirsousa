@@ -1,4 +1,4 @@
-<hAlign="center">
+
   <img src="https://komarev.com/ghpvc/?username=samirsousa&style=flat-square&color=blueviolet" alt="Visitor Count" />
 </p>
 
