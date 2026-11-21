@@ -120,11 +120,16 @@ Sistema web desenvolvido para apoiar a gestão administrativa da AEPEC.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samirsousa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=samirsousa&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirsousa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirsousa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=samirsousa&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img width="90%"
+src="https://streak-stats.demolab.com?user=samirsousa&theme=tokyonight&hide_border=true" />
 
 </div>
 
