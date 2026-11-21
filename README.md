@@ -30,7 +30,7 @@ Gosto de transformar problemas reais em soluções tecnológicas eficientes, esc
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Análise de Dados & IA Hub
+###  Análise de Dados & IA Hub
 
 Repositório com projetos de análise de dados, inteligência artificial, machine learning e aplicações inteligentes.
 
@@ -41,7 +41,7 @@ Repositório com projetos de análise de dados, inteligência artificial, machin
 </td>
 <td width="50%" valign="top">
 
-### 📊 Engenharia de Dados Hub
+###  Engenharia de Dados Hub
 
 Projetos de engenharia de dados, pipelines ETL, arquitetura Medallion, Data Warehouse e automação de processos.
 
@@ -54,7 +54,7 @@ Projetos de engenharia de dados, pipelines ETL, arquitetura Medallion, Data Ware
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Arcade Web Games
+###  Arcade Web Games
 
 Coleção de jogos e aplicações interativas desenvolvidas para explorar lógica de programação e desenvolvimento frontend.
 
@@ -65,7 +65,7 @@ Coleção de jogos e aplicações interativas desenvolvidas para explorar lógic
 </td>
 <td width="50%" valign="top">
 
-### 🤝 Sistema Institucional de ONG
+###  Sistema Institucional de ONG
 
 Sistema web desenvolvido para apoiar a gestão administrativa da AEPEC.
 
@@ -141,7 +141,7 @@ Estou sempre aberto a conhecer pessoas, trocar experiências, colaborar em proje
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos%20conversar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samir-firmino-573322265/)
 
-**Obrigado por visitar meu perfil!** 🚀
+**Obrigado por visitar meu perfil!** 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=100&section=footer" width="100%" />
 
