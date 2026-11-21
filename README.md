@@ -102,7 +102,7 @@ Sistema web desenvolvido para apoiar a gestão administrativa da AEPEC.
 <p align="left">
   <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas" />
   <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="Power BI" />
+ <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI" />
   <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="40" alt="Apache Spark" />
 </p>
 
