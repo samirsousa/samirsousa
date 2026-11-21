@@ -10,39 +10,29 @@
 
 ---
 
-<h2 align="center">🖥️ Explore meu universo profissional</h2>
+
+<h2 align="center">🖥️ Meu Portfólio Interativo</h2>
 
 <p align="center">
-  Uma experiência interativa que reúne minha trajetória,
-  projetos, tecnologias e resultados profissionais.
+  Explore minha trajetória profissional em uma interface inspirada em uma IDE.
 </p>
 
-<div align="center">
-
+<p align="center">
   <a href="https://samirsousa.github.io/portfolio-ide/" target="_blank">
     <img
-      src="./assets/portfolio-preview.png"
-      width="90%"
-      alt="Preview do portfólio interativo de Samir Sousa"
+      src="assets/portfolio-preview.png"
+      alt="Prévia do portfólio interativo de Samir Sousa"
+      width="95%"
     />
   </a>
+</p>
 
-  <br/><br/>
-
-  <a href="https://samirsousa.github.io/portfolio-ide/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/🚀_EXPLORAR_PORTFÓLIO-2563EB?style=for-the-badge"
-      alt="Explorar portfólio"
-    />
+<p align="center">
+  <a href="https://samirsousa.github.io/portfolio-ide/">
+    <img src="https://img.shields.io/badge/ABRIR_PORTFÓLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
+</p>
 
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/Interface-IDE-1E293B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Projetos-Portfolio-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Experiência-Interativa-0891B2?style=flat-square" />
-
-</div>
 
 ---
 ## 🧑‍💻 Sobre mim
