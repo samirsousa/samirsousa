@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="https://samirsousa.github.io/portfolio-ide/">
+  <a href="https://samirsousa.github.io/portfolio-samir-firmino/">
     <img src="https://img.shields.io/badge/ABRIR_PORTFÓLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
