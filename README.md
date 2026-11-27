@@ -14,11 +14,11 @@
 <h2 align="center">🖥️ Meu Portfólio Interativo</h2>
 
 <p align="center">
-  Explore minha trajetória profissional em uma interface inspirada em uma IDE.
+  Explore minha trajetória profissional em uma interface 3D.
 </p>
 
 <p align="center">
-  <a href="https://samirsousa.github.io/portfolio-ide/" target="_blank">
+  <a href="https://samirsousa.github.io/portfolio-samir-firmino/" target="_blank">
   </a>
 </p>
 
